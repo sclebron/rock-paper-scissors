@@ -1,0 +1,24 @@
+Rock, Paper, Scissors Game
+
+user will select a value and then the computer will randomly select a value
+
+how does a user win this Game = rock beats scissors, paper beats rock, scissors beats Paper
+
+what data do i need to track = wins, loses, and ties - create variables for those
+
+how do i make the computer randomly select one of these three values
+
+object called math which has methods on it, one is .floor and the other is .random
+
+var computerChoice = ["rock", "paper", "scissors"]
+                index  0         1         2
+
+once we have user and computer selection we need to compare the two values to see if user won, lost, or tied
+
+use if statements to compare
+
+if user wins - wins++
+
+alerts, prompts, and confirms, variables, randomly choose a value from array based on index number, if statements, logical operators
+
+logical operators && ||
